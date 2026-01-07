@@ -1,59 +1,59 @@
-## Title of the Project
-Small description about the project like one below
-The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
+## ShareFeast
+This project develops a community sharing platform that connects donors and receivers to share surplus resources efficiently.
 
 ## About
-<!--Detailed Description about the project-->
-Tailored Chatbot for Hostel Booking System is a project designed to integrate a chatbot that leverages advanced natural language processing techniques to understand and respond to user queries to the hostel booking system. Traditional hostel booking processes are often time-consuming and involve manual searches and extensive communication with hostel staff. This project seeks to overcome these challenges by creating an easy-to-use chatbot interface that assists students in addressing inquiries.
+This project presents a community sharing platform that enables users to donate and receive surplus food, clothes, furniture, and other essential items. The system promotes sustainability and social responsibility by connecting donors and receivers through a flexible, role-based web application.
 
 ## Features
-<!--List the features of the project as shown below-->
-- Implements advance neural network method.
-- A framework based application for deployment purpose.
-- High scalability.
-- Less time complexity.
-- A specific scope of Chatbot response model, using json data format.
+- Role-based system allowing users to act as donors or receivers dynamically.
+- Enables sharing of food, clothes, furniture, and other essential items.
+- Location-based notifications for efficient and timely resource distribution.
+- User-friendly web interface with secure login and item management features.
+
 
 ## Requirements
-<!--List the requirements of the project as shown below-->
-* Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with deep learning frameworks.
-* Development Environment: Python 3.6 or later is necessary for coding the sign language detection system.
-* Deep Learning Frameworks: TensorFlow for model training, MediaPipe for hand gesture recognition.
-* Image Processing Libraries: OpenCV is essential for efficient image processing and real-time hand gesture recognition.
-* Version Control: Implementation of Git for collaborative development and effective code management.
-* IDE: Use of VSCode as the Integrated Development Environment for coding, debugging, and version control integration.
-* Additional Dependencies: Includes scikit-learn, TensorFlow (versions 2.4.1), TensorFlow GPU, OpenCV, and Mediapipe for deep learning tasks.
+  * Operating System: Requires a 64-bit OS such as Windows 10/11 or Ubuntu for smooth development and deployment.
+* Development Environment: Python 3.8 or later is required for backend development and server-side processing.
+* Web Framework: Flask or Django is used to build and manage the backend logic and APIs of the application.
+* Frontend Technologies: HTML, CSS, JavaScript, and Bootstrap are used to design a responsive and user-friendly interface.
+* Database: MySQL or SQLite is required for storing user data, item listings, and transaction details.
+* Version Control: Git is used for source code management and collaborative development.
+* Additional Dependencies: Includes libraries such as Flask/Django packages, database connectors, and authentication modules.
 
 ## System Architecture
-<!--Embed the system architecture diagram as shown below-->
 
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
+
+<img width="818" height="498" alt="image" src="https://github.com/user-attachments/assets/1780183b-f37f-4d8b-8939-093fc5f9e2b7" />
+
 
 
 ## Output
 
-<!--Embed the Output picture at respective places as shown below as shown below-->
-#### Output1 - Name of the output
 
-![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
+#### Output1 - home page
 
-#### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
+<img width="811" height="401" alt="image" src="https://github.com/user-attachments/assets/981c123a-3092-4e2e-b47d-971e9d4a9004" />
 
-Detection Accuracy: 96.7%
-Note: These metrics can be customized based on your actual performance evaluations.
+
+#### Output2 - donar page
+<img width="815" height="387" alt="image" src="https://github.com/user-attachments/assets/dbfbaf2c-4911-4a7d-91fc-6719a2cfe375" />
+
+### Output3 - supplier page
+<img width="809" height="343" alt="image" src="https://github.com/user-attachments/assets/359fc007-1c88-4093-9f93-98223b7a16d2" />
+
+
+
+
 
 
 ## Results and Impact
-<!--Give the results and impact as shown below-->
-The Sign Language Detection System enhances accessibility for individuals with hearing and speech impairments, providing a valuable tool for inclusive communication. The project's integration of computer vision and deep learning showcases its potential for intuitive and interactive human-computer interaction.
+The Community Sharing Platform effectively enables users to donate and receive surplus food, clothes, furniture, and other essential items, reducing wastage and promoting responsible resource utilization. The role-based system and location-aware features improve accessibility and ensure efficient distribution within local communities.
 
-This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
+This project contributes to social welfare by encouraging community participation and sustainable living practices. It also provides a scalable foundation for future enhancements in digital sharing platforms aimed at social impact and environmental responsibility.
 
 ## Articles published / References
-1. N. S. Gupta, S. K. Rout, S. Barik, R. R. Kalangi, and B. Swampa, “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods ”, EAI Endorsed Trans IoT, vol. 10, Mar. 2024.
-2. A. A. BIN ZAINUDDIN, “Enhancing IoT Security: A Synergy of Machine Learning, Artificial Intelligence, and Blockchain”, Data Science Insights, vol. 2, no. 1, Feb. 2024.
+1. R. Kumar, S. Das, and P. Singh, “Design and Development of a Community-Based Resource Sharing Platform for Sustainable Living,” International Journal of Social Computing and Applications, vol. 9, no. 2, pp. 45–52, Mar. 2023.
 
-
+2. A. Mehta and K. R. Iyer, “A Web-Based System for Reducing Household Waste through Digital Sharing Platforms,” Journal of Sustainable Information Systems, vol. 7, no. 1, pp. 18–25, Jan. 2022.
 
 
